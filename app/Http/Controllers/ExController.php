@@ -102,7 +102,7 @@ class ExController extends Controller //class
                 'followup' => 0,
             ),
             CURLOPT_HTTPHEADER => array(
-                'Authorization: b_xRPaJ!bj7uqG_FZ6NZ'
+                'Authorization: Token'
             ),
         ));
 
